@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918433060624",
+    "project_id": "fir-storage-333c6",
+    "storage_bucket": "fir-storage-333c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918433060624:android:63b07ebb584aeca357f795",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkuu9lgaWX-nXYE5S5IkSJypXDghFrGQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
